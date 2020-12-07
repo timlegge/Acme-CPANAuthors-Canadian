@@ -12,6 +12,7 @@ use Acme::CPANAuthors::Register (
     ROMANF => 'Roman F.',
     GTERMARS    => 'Graham TerMarsch',
     OALDERS => 'Olaf Alders',
+    TIMLEGGE => 'Timothy Legge',
 
     # the following four authors have been submitted by GTERMARS
     STASH   => 'Jeremy Stashewsky',
